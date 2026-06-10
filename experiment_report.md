@@ -1,7 +1,7 @@
 # Experiment Report: Data Quality Impact on AI Agent
 
-**Student ID:** AI20K-1234
-**Name:** Nguyen Van A
+**Student ID:** 2A202600952
+**Name:** Đỗ Quốc An
 **Date:** 2026-06-10
 
 ---
